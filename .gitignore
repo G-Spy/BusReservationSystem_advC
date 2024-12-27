@@ -1,0 +1,6 @@
+/.vs/*
+/BusReservationSystem/x64
+/x64
+/.idea
+BusReservationSystem.exe
+BusReservationSystem.obj
